@@ -1,0 +1,45 @@
+.jumbotron {
+  background-color: darkgray;
+  width: 45%;
+  opacity: 0.75;
+  margin-left: 5%;
+}
+
+h1 {
+  margin-left:7%;
+  font-size: 50px;
+  margin-bottom: 0%;
+}
+
+body {
+    background-image: url(../images/background.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #F8F9F9;
+}
+
+label {
+  color: black;
+  font-size: 15px;
+}
+
+#converted_rate, #converted_amount {
+  color: black;
+}
+
+.footer1 {
+    color: lightgray;
+    position: absolute;
+    bottom: 0px;
+    margin-left: 25%;
+}
+
+.mb-lg-0 {
+    background-color: black;
+}
+
+#convert {
+  margin-left: 30%;
+}
